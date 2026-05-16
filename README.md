@@ -20,6 +20,14 @@ Demostrate use of original messaging platfortm to send code snippets, establish 
 
 Use of AI in the process and new PubNub capabilities.
 
+### UI/UX
+
+Inbox
+
+Viewer/ledger
+
+Editor/message sender (pairs and comments/inquiries)
+
 ## XML Editor for AI Agents
 
 We are curious if the framework can work for agents. What common prompts might a user ask an agent relative to file generation (has this been reported, start a file, solicide input, establish consensus, submit or que for review, publish XML, formally publish to IATI, update)
