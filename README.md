@@ -1,7 +1,7 @@
 
 ![MicroBlox](https://github.com/Brentophillips/microblox-workspace/blob/main/microbloxbanner.png)
 
-**MicroBlox** is a chat-native, ledger-oriented experimental collaboration framework for drafting, revising, reviewing, and approving structured XML data in human-governed workflows that is being developed as a new open-source lab within the Linux Foundation's [LF Decentralized Trust Labs ecosystem](https://www.lfdecentralizedtrust.org/about).
+**MicroBlox** is a chat-native, ledger-oriented experimental collaboration framework for drafting, revising, reviewing, and approving structured XML data in human-governed workflows that is being developed as a new open-source lab within the Linux Foundation's [LF Decentralized Trust Labs ecosystem](https://www.lfdecentralizedtrust.org/about) by members of the **Humanitarian AI** meetup community linking local groups across fifteen cities.
 
 The lightweight framework serves as a **domain-specific** coordination layer for structured data collaboration that explores using message-native interactions, append-only event history, permissions, and projected current state to help humans collaboratively generate and curate structured XML data that is designed to evolve toward facilitating AI-agent-assisted collaboration. **IATI XML** is the initial domain focus driving the development of MicroBlox. However, the deeper architectural contribution is not only IATI-specific. It is a reusable framework pattern for collaborative editing of machine-readable, semi-regulated structured data where provenance, approval, visibility controls, and human-in-the-loop governance matter.
 
