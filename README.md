@@ -1,3 +1,6 @@
+
+![MicroBlox](https://github.com/Brentophillips/microblox-workspace/blob/main/microbloxbanner.png)
+
 # MicroBlox - Experimental IATI Messaging Platform
 
 Microblox is demonstration project
