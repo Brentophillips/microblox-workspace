@@ -12,7 +12,9 @@ IATI is an XML standard and open data shairing framework managed by the **Intern
 
 MicroBlox addresses this gap by treating XML collaboration as a sequence of structured events exchanged in a chat-native messaging environment. Instead of passing full files back and forth or editing XML in isolation, contributors discuss, propose, revise, accept, reject, and supersede smaller fragments while a ledger-like history preserves how the current state came to exist. Tackling how this can be done and establishing frameworks like MicroBlox is becoming crucial to the humanitarian community as AI agents increasingly participate in drafting, validation, and curation of high-value structured data, necessitating the development of a future-proof collaboration layer that must support machine participation without removing human oversight.
 
-## Messaging Exoskeleton and IATI XML Editor
+## MicroBlox Components
+
+MicroBlox is a chat-native messaging exoskeleton providing staff from a constelation of publishers and their AI agents with the ability to **collaborate on files** and **message one another**, as well as carry-out limited contextual queries.
 
 IATI can be envisioned as a constelation linking over one thousand aid organizations through which information on over one million aid activites have been shared in granular detail cross-connecting organizations, implementing partners, donors and government agencies. Around this constelation, MicroBlox can be likened to a messaging exoskeleton that can be used by organization staff to discuss and collaborate on code fragemnets and files to be added to the mesh or that can be mainted in variying degrees of privacy. The systme is geared to be lightweight yet robust enought to enable contextual visibility overlying permission protected data over public data for visibility, analysis and testing new fields, traversable links.
 
