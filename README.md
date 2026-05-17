@@ -3,7 +3,7 @@
 
 # MicroBlox - Experimental IATI Messaging Platform
 
-Microblox is demonstration project
+**MicroBlox** is a chat-native, ledger-oriented experimental collaboration framework for drafting, revising, reviewing, and approving structured XML data in human-governed workflows, initially focused on humanitarian aid activity reporting and designed to evolve toward AI-agent-assisted collaboration.
 
 ## What's IATI
 
