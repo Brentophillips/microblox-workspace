@@ -1,9 +1,7 @@
 
 ![MicroBlox](https://github.com/Brentophillips/microblox-workspace/blob/main/microbloxbanner.png)
 
-# MicroBlox - Experimental IATI Messaging Platform
-
-**MicroBlox** is a chat-native, ledger-oriented experimental collaboration framework for drafting, revising, reviewing, and approving structured XML data in human-governed workflows, initially focused on humanitarian aid activity reporting and designed to evolve toward AI-agent-assisted collaboration.
+**MicroBlox** is a chat-native, ledger-oriented experimental collaboration framework for drafting, revising, reviewing, and approving structured XML data in human-governed workflows, initially focused on humanitarian aid activity reporting and designed to evolve toward facilitating AI-agent-assisted collaboration.
 
 ## What's IATI
 
