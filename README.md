@@ -14,7 +14,7 @@ MicroBlox addresses this gap by treating XML collaboration as a sequence of stru
 
 ## MicroBlox Components
 
-MicroBlox is a chat-native messaging exoskeleton providing staff from a constelation of publishers and their AI agents with the ability to **collaborate on files** and **message one another**, as well as carry-out limited contextual queries.
+MicroBlox is a chat-native messaging exoskeleton providing staff from a constelation of publishers and their AI agents with the ability to **collaborate on files** and **message one another**, as well as carry-out limited contextual queries (supporting reporting and checking pathways)(range of things that humans or agents might incorporate into workflows).
 
 IATI can be envisioned as a constelation linking over one thousand aid organizations through which information on over one million aid activites have been shared in granular detail cross-connecting organizations, implementing partners, donors and government agencies. Around this constelation, MicroBlox can be likened to a messaging exoskeleton that can be used by organization staff to discuss and collaborate on code fragemnets and files to be added to the mesh or that can be mainted in variying degrees of privacy. The systme is geared to be lightweight yet robust enought to enable contextual visibility overlying permission protected data over public data for visibility, analysis and testing new fields, traversable links.
 
